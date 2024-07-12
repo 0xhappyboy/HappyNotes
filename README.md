@@ -19,6 +19,7 @@ a human study note - 一个人类的学习笔记
     - [C](https://github.com/0xhappyboy/happy-notes/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E8%AF%AD%E8%A8%80/c)
     - [C++](https://github.com/0xhappyboy/happy-notes/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E8%AF%AD%E8%A8%80/c%2B%2B)
     - [Rust](https://github.com/0xhappyboy/happy-notes/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E8%AF%AD%E8%A8%80/rust)
+    - [Go](https://github.com/0xhappyboy/happy-notes/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E8%AF%AD%E8%A8%80/go)
     - [Typescript](https://github.com/0xhappyboy/happy-notes/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E8%AF%AD%E8%A8%80/TypeScript/%E5%9F%BA%E7%A1%80)
     - [脚本](https://github.com/0xhappyboy/happy-notes/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E8%AF%AD%E8%A8%80/%E8%84%9A%E6%9C%AC/markdown)
 2. BlockChain
