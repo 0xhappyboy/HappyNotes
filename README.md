@@ -8,7 +8,7 @@ a human study note - 一个人类的学习笔记
 ## 目录
 ### 基础科学
 1. 易经
-    - [爻卦](https://x.com/0xhappyboy_)
+    - [爻卦](https://github.com/0xhappyboy/happy-notes/tree/main/%E5%9F%BA%E7%A1%80%E7%A7%91%E5%AD%A6/%E6%98%93%E7%BB%8F)
 2. 数学
     - [基础](https://github.com/0xhappyboy/happy-notes/tree/main/%E5%9F%BA%E7%A1%80%E7%A7%91%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E5%9F%BA%E7%A1%80)
 3. 医学
